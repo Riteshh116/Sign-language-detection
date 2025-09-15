@@ -1,0 +1,10 @@
+numpy
+pyttsx3
+opencv-python
+mediapipe
+tensorflow
+opencv-python
+cvzone
+numpy
+pyttsx3
+tensorflow
